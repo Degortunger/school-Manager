@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4F86FA6F-0F2A-4BB4-B85D-3D97F782F16E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Tap</RootNamespace>
+    <AssemblyName>Tap</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GMap.NET.Core, Version=1.7.5.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.WindowsForms.1.7.5\lib\net40\GMap.NET.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsForms, Version=1.7.5.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.WindowsForms.1.7.5\lib\net40\GMap.NET.WindowsForms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdicionarAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdicionarAluno.Designer.cs">
+      <DependentUpon>AdicionarAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdicionarDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdicionarDocente.Designer.cs">
+      <DependentUpon>AdicionarDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdicionarEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdicionarEmpresa.Designer.cs">
+      <DependentUpon>AdicionarEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdicionarOrientador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdicionarOrientador.Designer.cs">
+      <DependentUpon>AdicionarOrientador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdicionarProjeto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdicionarProjeto.Designer.cs">
+      <DependentUpon>AdicionarProjeto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aluno.cs" />
+    <Compile Include="Cod_Postal.cs" />
+    <Compile Include="Contactos.cs" />
+    <Compile Include="Departamento.cs" />
+    <Compile Include="Docente.cs" />
+    <Compile Include="Empresa.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Morada.cs" />
+    <Compile Include="OrientadorEmpresa.cs" />
+    <Compile Include="Pessoa.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Projeto.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemoverAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoverAluno.Designer.cs">
+      <DependentUpon>RemoverAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemoverDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoverDocente.Designer.cs">
+      <DependentUpon>RemoverDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemoverEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoverEmpresa.Designer.cs">
+      <DependentUpon>RemoverEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemoverOrientador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoverOrientador.Designer.cs">
+      <DependentUpon>RemoverOrientador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemoverProjeto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoverProjeto.Designer.cs">
+      <DependentUpon>RemoverProjeto.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdicionarAluno.resx">
+      <DependentUpon>AdicionarAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdicionarDocente.resx">
+      <DependentUpon>AdicionarDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdicionarEmpresa.resx">
+      <DependentUpon>AdicionarEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdicionarOrientador.resx">
+      <DependentUpon>AdicionarOrientador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdicionarProjeto.resx">
+      <DependentUpon>AdicionarProjeto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RemoverAluno.resx">
+      <DependentUpon>RemoverAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoverDocente.resx">
+      <DependentUpon>RemoverDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoverEmpresa.resx">
+      <DependentUpon>RemoverEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoverOrientador.resx">
+      <DependentUpon>RemoverOrientador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoverProjeto.resx">
+      <DependentUpon>RemoverProjeto.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graduate-student-avatar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graduate-student-with-graduation-cap-toga-and-tie %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business-person-silhouette-wearing-tie %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\multiple-users-silhouette %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bleach-sign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil-edit-button %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save-disk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open-book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save-disk %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel-cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\male-gender-sign %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\female-sign %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asterisk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Fotos\Default.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifier-tool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifier-tool %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rubbish-bin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkmark-for-verification.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkmark-for-verification %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

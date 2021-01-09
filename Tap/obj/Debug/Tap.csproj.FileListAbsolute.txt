@@ -1,0 +1,146 @@
+C:\Users\Bernardo\Desktop\Tap\Tap\bin\Debug\Tap.exe.config
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\bin\Debug\Tap.exe.config
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\bin\Debug\Tap.exe
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\bin\Debug\Tap.pdb
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\bin\Debug\mscorlib.dll
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\bin\Debug\pt-PT\mscorlib.resources.dll
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\bin\Debug\normidna.nlp
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\bin\Debug\normnfc.nlp
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\bin\Debug\normnfd.nlp
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\bin\Debug\normnfkc.nlp
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\bin\Debug\normnfkd.nlp
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\obj\Debug\Tap.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\obj\Debug\Tap.AdicionarAluno.resources
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\obj\Debug\Tap.AdicionarDocente.resources
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\obj\Debug\Tap.AdicionarEmpresa.resources
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\obj\Debug\Tap.AdicionarOrientador.resources
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\obj\Debug\Tap.AdicionarProjeto.resources
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\obj\Debug\Tap.Form1.resources
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\obj\Debug\Tap.Properties.Resources.resources
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\obj\Debug\Tap.csproj.GenerateResource.Cache
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\obj\Debug\Tap.exe
+C:\Users\Bernardo\Documents\Escola\1ºSemestre\TAP\Tap\Tap\obj\Debug\Tap.pdb
+C:\Users\Bruno\Desktop\TAP\Tap\Tap\bin\Debug\Tap.exe.config
+C:\Users\Bruno\Desktop\TAP\Tap\Tap\obj\Debug\Tap.exe
+C:\Users\Bruno\Desktop\TAP\Tap\Tap\obj\Debug\Tap.pdb
+C:\Users\Bruno\Desktop\TAP\Tap\Tap\bin\Debug\Tap.exe
+C:\Users\Bruno\Desktop\TAP\Tap\Tap\bin\Debug\Tap.pdb
+C:\Users\Bruno\Desktop\TAP\Tap\Tap\bin\Debug\GMap.NET.Core.dll
+C:\Users\Bruno\Desktop\TAP\Tap\Tap\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Bruno\Desktop\TAP\Tap\Tap\obj\Debug\Tap.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\TAP\Tap\Tap\obj\Debug\Tap.AdicionarAluno.resources
+C:\Users\Bruno\Desktop\TAP\Tap\Tap\obj\Debug\Tap.AdicionarDocente.resources
+C:\Users\Bruno\Desktop\TAP\Tap\Tap\obj\Debug\Tap.AdicionarEmpresa.resources
+C:\Users\Bruno\Desktop\TAP\Tap\Tap\obj\Debug\Tap.AdicionarOrientador.resources
+C:\Users\Bruno\Desktop\TAP\Tap\Tap\obj\Debug\Tap.AdicionarProjeto.resources
+C:\Users\Bruno\Desktop\TAP\Tap\Tap\obj\Debug\Tap.Form1.resources
+C:\Users\Bruno\Desktop\TAP\Tap\Tap\obj\Debug\Tap.Properties.Resources.resources
+C:\Users\Bruno\Desktop\TAP\Tap\Tap\obj\Debug\Tap.csproj.GenerateResource.Cache
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\bin\Debug\Tap.exe.config
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\obj\Debug\Tap.exe
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\obj\Debug\Tap.pdb
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\bin\Debug\Tap.exe
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\bin\Debug\Tap.pdb
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\bin\Debug\GMap.NET.Core.dll
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\bin\Debug\mscorlib.dll
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\bin\Debug\pt-PT\mscorlib.resources.dll
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\bin\Debug\normidna.nlp
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\bin\Debug\normnfc.nlp
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\bin\Debug\normnfd.nlp
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\bin\Debug\normnfkc.nlp
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\bin\Debug\normnfkd.nlp
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\obj\Debug\Tap.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\obj\Debug\Tap.AdicionarAluno.resources
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\obj\Debug\Tap.AdicionarDocente.resources
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\obj\Debug\Tap.AdicionarEmpresa.resources
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\obj\Debug\Tap.AdicionarOrientador.resources
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\obj\Debug\Tap.AdicionarProjeto.resources
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\obj\Debug\Tap.Form1.resources
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\obj\Debug\Tap.Properties.Resources.resources
+C:\Users\Bernardo\Downloads\Nova pasta\Tap\Tap\obj\Debug\Tap.csproj.GenerateResource.Cache
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\Tap.exe.config
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.exe
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.pdb
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.AdicionarAluno.resources
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.AdicionarDocente.resources
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.AdicionarEmpresa.resources
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.AdicionarOrientador.resources
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.AdicionarProjeto.resources
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.Form1.resources
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.Login.resources
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.Properties.Resources.resources
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.RemoverAluno.resources
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.RemoverDocente.resources
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.RemoverEmpresa.resources
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.RemoverOrientador.resources
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.RemoverProjeto.resources
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.csproj.GenerateResource.Cache
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\Tap.exe
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\Tap.pdb
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\GMap.NET.Core.dll
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\mscorlib.dll
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\pt-PT\mscorlib.resources.dll
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\normidna.nlp
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\normnfc.nlp
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\normnfd.nlp
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\normnfkc.nlp
+C:\Users\Bernardo\Downloads\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\normnfkd.nlp
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\Tap.exe.config
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.exe
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.pdb
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\Tap.exe
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\Tap.pdb
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\GMap.NET.Core.dll
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\mscorlib.dll
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\pt-PT\mscorlib.resources.dll
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\normidna.nlp
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\normnfc.nlp
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\normnfd.nlp
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\normnfkc.nlp
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\normnfkd.nlp
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.csprojResolveAssemblyReference.cache
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.AdicionarAluno.resources
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.AdicionarDocente.resources
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.AdicionarEmpresa.resources
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.AdicionarOrientador.resources
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.AdicionarProjeto.resources
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.Form1.resources
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.Login.resources
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.Properties.Resources.resources
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.RemoverAluno.resources
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.RemoverDocente.resources
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.RemoverEmpresa.resources
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.RemoverOrientador.resources
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.RemoverProjeto.resources
+C:\Users\André\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.csproj.GenerateResource.Cache
+C:\Users\Bruno\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\Tap.exe.config
+C:\Users\Bruno\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.exe
+C:\Users\Bruno\Desktop\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.pdb
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\Tap.exe.config
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\Tap.exe
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\Tap.pdb
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\GMap.NET.Core.dll
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\bin\Debug\GMap.NET.WindowsForms.dll
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.csprojAssemblyReference.cache
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.AdicionarAluno.resources
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.AdicionarDocente.resources
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.AdicionarEmpresa.resources
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.AdicionarOrientador.resources
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.AdicionarProjeto.resources
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.Form1.resources
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.Login.resources
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.Properties.Resources.resources
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.RemoverAluno.resources
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.RemoverDocente.resources
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.RemoverEmpresa.resources
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.RemoverOrientador.resources
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.RemoverProjeto.resources
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.csproj.GenerateResource.cache
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.csproj.CoreCompileInputs.cache
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.csproj.CopyComplete
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.exe
+F:\TDM\2ºAno\1ºSemestre\TAP\Final\Tap_andre, Bernardo, Eusébio\Tap\Tap\obj\Debug\Tap.pdb
